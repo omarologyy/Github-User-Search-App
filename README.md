@@ -1,6 +1,5 @@
 # 🔍 GitHub User Search App
 
-=======
 
 # Search Github Users
 
