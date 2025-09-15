@@ -78,11 +78,3 @@ Feel free to open a PR or issue in this repository.
 👨‍💻 Author
 
 # Made with ❤️ by Umar Sulaiman
-
-- React
-- Vite
-- Tailwind CSS
-- Shadcn UI
-- Typescript
-- Github API
-- Appollo Client
